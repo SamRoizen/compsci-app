@@ -12,8 +12,8 @@
 
   <ul class= "menu";>
   <li><a href="index.html">Home</a></li>
-  <li><a href="index.html">Obstacles Game</a></li>
-  <li><a href="index.html">Basketball Maze</a></li>
+  <li><a href="mittythekitty.html">Obstacles Game</a></li>
+  <li><a href="maze.html">Basketball Maze</a></li>
 </ul>
 
   <h1>SchoolGames</h1>
